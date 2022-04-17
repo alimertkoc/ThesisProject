@@ -2,6 +2,8 @@ from bs4 import BeautifulSoup
 from urllib.request import Request, urlopen
 from allConsts import header
 from scrapingbee import ScrapingBeeClient
+import numpy as np
+import pandas as pd
 import csv
 
 def gettingCarLinks():
@@ -10,17 +12,18 @@ def gettingCarLinks():
     links = []
     #Connecting Proxy Service
     client = ScrapingBeeClient(
-        api_key='W9LUFY03GBFL3G4IYH1C5NF9PC8LBBG1QJECP350H7EZPKNU208915VPIVQ4HMBAMB3AMCNMQ3RG0IK7')
+        api_key='11E8XBLZ5HWYE713R9ZXH7ILW11A7O13ZT4IHKV3XHGZDVOQW90JIRS7CU9TYMHU74XN9QDNLHV3GB8E')
     #Getting 5000 car links.
-    while offSetValue <= 200:
+    while offSetValue <= 4000:
         #Preparing the URL. Setting offSet inside the function. Each iteration adds '50' to offSetValue.
-        MAIN_URL = "https://www.sahibinden.com/bmw?pagingOffset="+str(offSetValue)+"&pagingSize=50"
+        MAIN_URL = "https://www.sahibinden.com/bmw-3-serisi?pagingOffset="+str(offSetValue)+"&pagingSize=50"
 
         # Sending Request to the main car brand page.
         response = client.get(
             MAIN_URL,
             params={"premium_proxy": True,
                     "country_code": "tr",
+                    "render_js": False
                     }
         )
 
@@ -46,10 +49,17 @@ carURLs = gettingCarLinks()
 advertLinks = []
 for link in carURLs:
     if link.startswith("/ilan"):
-        advertLinks.append("https://www.sahibinden.com/"+link)
+        advertLinks.append("https://www.sahibinden.com"+link+"\n")
+
 
 #Removing duplicated elements if there are.
 actualCarURLs = list(dict.fromkeys(advertLinks))
 print("Len of car urls (removed duplicated elements): " + str(len(actualCarURLs)))
 print(actualCarURLs)
 
+
+file1 = open('bmw3-1.txt', 'a')
+file1.writelines(actualCarURLs)
+
+df = pd.DataFrame(actualCarURLs)
+df.to_csv('bmw3-1.csv')
