@@ -47,15 +47,16 @@ Publishing in StackEdit makes it simple for you to publish online your files. On
 
 
 
-## SmartyPants
+## Dataset
 
-SmartyPants converts ASCII punctuation characters into "smart" typographic punctuation HTML entities. For example:
+The CarDataset.csv looks like:
 
-|                |ASCII                          |HTML                         |
-|----------------|-------------------------------|-----------------------------|
-|Single backticks|`'Isn't this fun?'`            |'Isn't this fun?'            |
-|Quotes          |`"Isn't this fun?"`            |"Isn't this fun?"            |
-|Dashes          |`-- is en-dash, --- is em-dash`|-- is en-dash, --- is em-dash|
+|model                 |year|fuel  |transmission |mileage|hp |engineSize|price |
+|----------------------|----|------|-------------|-------|---|----------|------|
+|520i Executive M Sport|2016|Benzin|Yarı Otomatik|136000 |170|1592      |808000|
+|320d Premium          |2010|Dizel |Otomatik     |262000 |177|1995      |340500|
+
+
 
 
 ## UML diagram of project
