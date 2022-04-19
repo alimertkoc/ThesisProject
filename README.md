@@ -35,18 +35,6 @@ To be continued...
 
 The use of **Machine Learning Applications**  in our daily lives is increasing day by day. So, I wanted to apply an application about this field of area and try to contribute to the community.
 
-
-
-
-# Publication
-
-Publishing in StackEdit makes it simple for you to publish online your files. Once you're happy with a file, you can publish it to different hosting platforms like **Blogger**, **Dropbox**, **Gist**, **GitHub**, **Google Drive**, **WordPress** and **Zendesk**. With [Handlebars templates](http://handlebarsjs.com/), you have full control over what you export.
-
-> Before starting to publish, you must link an account in the **Publish** sub-menu.
-
-
-
-
 ## Dataset
 
 The CarDataset.csv looks like:
@@ -55,9 +43,6 @@ The CarDataset.csv looks like:
 |----------------------|----|------|-------------|-------|---|----------|------|
 |520i Executive M Sport|2016|Benzin|Yarı Otomatik|136000 |170|1592      |808000|
 |320d Premium          |2010|Dizel |Otomatik     |262000 |177|1995      |340500|
-
-
-
 
 ## UML diagram of project
 
