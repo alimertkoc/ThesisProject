@@ -58,12 +58,12 @@ SmartyPants converts ASCII punctuation characters into "smart" typographic punct
 |Dashes          |`-- is en-dash, --- is em-dash`|-- is en-dash, --- is em-dash|
 
 
-## UML diagrams
+## UML diagram of project
 
 ```mermaid
 graph LR
-A[Square Rect] -- Link text --> B((Circle))
-A --> C(Round Rect)
-B --> D{Rhombus}
-C --> D
+A(GetAllLinks.py) -- carURLs.csv --> B(ScrapeCarInfos.py)
+B -- ScrapedData.csv --> C(AddHeadersToCSV.py) 
+C -- ScrapedData.csv --> D(DatasetPrep.py)
+D -- CarDataset.csv --> E(PricePrediction.ipynb)
 ```
