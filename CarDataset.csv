@@ -1,0 +1,905 @@
+model,year,fuelType,transmission,mileage,hp,engineSize,price
+520i Executive M Sport,2016,Benzin,Yarı Otomatik,136000,170,1592,808000
+318is,1998,Benzin,Manuel,136000,140,1796,240000
+320d Sport Line,2012,Dizel,Yarı Otomatik,305000,184,1995,465000
+320d Premium,2010,Dizel,Otomatik,165000,177,1995,397500
+320d Premium,2007,Dizel,Yarı Otomatik,245000,163,1900,292500
+320i ED Sport Line,2015,Benzin,Yarı Otomatik,124000,170,1598,560900
+318i Edition M Sport,2017,Benzin,Otomatik,124000,136,1499,759000
+316i M Sport,2014,Benzin,Yarı Otomatik,126000,136,1598,575000
+316i M Sport,2014,Benzin,Yarı Otomatik,219000,136,1598,430000
+320d M Sport,2012,Dizel,Otomatik,235555,188,1900,535000
+320i,2012,Benzin,Otomatik,88000,184,1997,532900
+320d M Sport,2011,Dizel,Otomatik,155000,184,1995,352000
+320d Premium,2010,Dizel,Otomatik,262000,177,1995,340500
+320i ED Sport Line,2016,Benzin,Yarı Otomatik,87500,170,1598,850000
+320d xDrive Techno Plus,2013,Dizel,Yarı Otomatik,172000,184,1995,520000
+320d Premium,2010,Dizel,Otomatik,245000,177,1995,355000
+320d Edition Comfort,2012,Dizel,Otomatik,216000,184,1995,421000
+320d Edition M Sport,2018,Dizel,Otomatik,68000,190,1995,915000
+318i Edition Sport Line,2017,Benzin,Otomatik,115000,136,1499,665000
+320d Premium,2010,Dizel,Otomatik,260000,177,1995,286500
+320i ED Modern Line,2014,Benzin,Otomatik,124000,170,1598,545000
+320d M Sport,2012,Dizel,Yarı Otomatik,168000,184,1995,555000
+330i xDrive Edition M Sport,2018,Benzin,Otomatik,86000,252,1998,1250000
+320i ED Techno Plus,2013,Benzin,Otomatik,214000,170,1598,432000
+318is,1997,Benzin & LPG,Manuel,340000,140,1796,120000
+320d xDrive 40th Year Edition,2017,Dizel,Otomatik,121000,190,1995,849900
+320d M Sport,2011,Dizel,Yarı Otomatik,267000,184,1995,435000
+320d M Sport,2008,Dizel,Otomatik,262000,177,1995,408000
+320d Premium Line,2018,Dizel,Otomatik,91500,190,1995,775000
+320d Premium Line,2018,Dizel,Otomatik,36865,190,1995,819000
+316i M Sport,2014,Benzin,Yarı Otomatik,189000,136,1598,477400
+318i M Joy,2016,Benzin,Yarı Otomatik,109500,136,1499,619900
+320i First Edition M Sport,2019,Benzin,Otomatik,22000,170,1597,1165000
+316ti Compact,2003,Benzin,Manuel,330000,115,1596,105000
+320d M Sport,2009,Dizel,Otomatik,155000,177,1995,665000
+320i ED 40th Year Edition,2016,Benzin,Yarı Otomatik,110000,170,1598,750000
+320i First Edition M Sport,2020,Benzin,Otomatik,68000,170,1597,1200000
+316i Standart,1995,Benzin & LPG,Manuel,320000,102,1596,100000
+320d Standart,2012,Dizel,Otomatik,256000,184,1995,340000
+320d M Sport,2011,Dizel,Otomatik,230000,184,1995,372000
+320i First Edition M Sport,2020,Benzin,Otomatik,9000,170,1597,1050000
+316i Comfort,2012,Benzin,Otomatik,135000,163,1700,430000
+320d M Sport,2011,Dizel,Yarı Otomatik,210000,184,1995,615000
+318is,1994,Benzin & LPG,Otomatik,192000,140,1796,102500
+316i M Sport,2015,Benzin,Yarı Otomatik,205000,136,1598,555000
+320d Modern Line,2013,Dizel,Yarı Otomatik,200000,184,1995,487500
+320d M Sport,2013,Dizel,Yarı Otomatik,340000,184,1995,440000
+320d GT Gran Turismo,2013,Dizel,Otomatik,163000,184,1995,519000
+320i First Edition Sport Line,2019,Benzin,Otomatik,21000,170,1597,1044900
+318i Edition Luxury Line,2017,Benzin,Otomatik,162000,136,1499,715000
+316i M Sport,2012,Benzin,Yarı Otomatik,164000,136,1598,415000
+320d M Sport,2009,Dizel,Otomatik,230000,177,1995,585000
+325i Standart,1989,Benzin & LPG,Manuel,111111,188,2250,67500
+320i,2001,Benzin & LPG,Otomatik,306000,170,2171,225000
+320d Standart,2014,Dizel,Otomatik,90000,184,1995,665000
+320i ED Techno Plus,2014,Benzin,Otomatik,154000,170,1598,447500
+320i,1994,Benzin & LPG,Manuel,244000,150,1991,155555
+320d M Sport,2015,Dizel,Yarı Otomatik,168000,190,1995,710000
+320d Premium,2006,Dizel,Otomatik,263000,163,1995,209999
+320i,1997,Benzin & LPG,Manuel,209000,150,1991,155000
+320i,1999,Benzin & LPG,Otomatik,315000,150,1991,159500
+320i ED Luxury Line,2015,Benzin,Otomatik,124000,170,1598,610000
+318i Standart,1994,Benzin & LPG,Manuel,325000,115,1796,107000
+320d M Sport,2009,Dizel,Otomatik,295000,177,1995,335000
+320d xDrive Modern Line,2014,Dizel,Otomatik,273000,184,1995,530000
+320d Standart,2014,Dizel,Otomatik,242000,184,1995,472000
+320i ED Standart,2013,Benzin,Otomatik,198000,170,1598,485750
+320i ED 40th Year Edition,2016,Benzin,Yarı Otomatik,78000,170,1598,805000
+320i ED Modern Line,2013,Benzin,Otomatik,168000,170,1598,469000
+318i Standart,1998,Benzin & LPG,Manuel,302000,118,1895,168000
+320i Premium,2006,Benzin & LPG,Otomatik,365000,150,1995,242000
+320d M Sport,2013,Dizel,Yarı Otomatik,240000,184,1995,485000
+320d Standart,2013,Dizel,Otomatik,185000,184,1995,510000
+318i Standart,2001,Benzin & LPG,Otomatik,392000,143,1995,160000
+320d M Sport,2013,Dizel,Yarı Otomatik,195000,184,1995,599000
+316i Standart,1990,Benzin,Manuel,200000,99,1596,85000
+318i Standart,2002,Benzin & LPG,Otomatik,296000,143,1995,136000
+320d Premium Line,2018,Dizel,Otomatik,33000,190,1995,855000
+318i Standart,1990,Benzin & LPG,Manuel,352000,113,1796,95000
+320d Standart,2010,Dizel,Otomatik,258000,184,1995,258000
+316i Standart,1993,Benzin & LPG,Manuel,381000,102,1596,81950
+320i,2008,Benzin,Otomatik,189000,170,1995,409000
+318i Premium Line,2018,Benzin,Otomatik,43000,136,1499,719000
+325xi Standart,2001,Benzin,Otomatik,359000,192,2494,189500
+316i M Sport,2014,Benzin,Yarı Otomatik,112000,136,1598,440000
+318i M Joy Plus,2015,Benzin,Yarı Otomatik,181000,136,1499,557000
+320d Premium,2007,Dizel,Otomatik,383000,163,1995,239900
+316i M Sport,2013,Benzin,Yarı Otomatik,215000,113,2350,470000
+320i Executive M Sport,2020,Benzin,Otomatik,19000,163,1450,1190000
+320i,2000,Benzin,Otomatik,229000,170,1991,159500
+328i Touring,1995,Benzin & LPG,Manuel,291300,193,2793,184000
+320d Premium,2011,Dizel,Otomatik,253000,177,1995,326500
+320i ED Standart,2013,Benzin,Otomatik,153967,170,1598,500000
+320d M Sport,2012,Dizel,Yarı Otomatik,250000,184,1995,650000
+320i First Edition M Sport,2021,Benzin,Otomatik,18000,170,1597,1095000
+318i Edition M Sport,2017,Benzin,Otomatik,64000,136,1499,716500
+320i ED Techno Plus,2013,Benzin,Otomatik,108800,170,1598,537000
+320d Modern Line,2013,Dizel,Yarı Otomatik,228000,184,1995,490000
+320i ED M Plus,2016,Benzin,Yarı Otomatik,94850,170,1598,635000
+318d Premium,2009,Dizel,Yarı Otomatik,209000,143,1995,365950
+320d Premium,2005,Dizel,Otomatik,338000,163,1995,185000
+316i Comfort,2012,Benzin,Otomatik,165000,136,1598,425000
+318i Edition M Sport,2017,Benzin,Otomatik,77000,136,1499,685000
+320d Comfort,2012,Dizel,Otomatik,252000,188,1900,399000
+320i First Edition Luxury Line,2020,Benzin,Otomatik,14986,163,1450,1145000
+320i ED M Sport,2015,Benzin,Otomatik,125000,163,1450,510000
+320d Sport Line,2017,Dizel,Yarı Otomatik,145000,190,1995,732500
+320i ED 40th Year Edition,2015,Benzin,Yarı Otomatik,130000,170,1598,645000
+320i ED Sport Line,2015,Benzin,Yarı Otomatik,125000,170,1598,555000
+320i ED Standart,2013,Benzin,Otomatik,224,170,1598,430000
+320i ED Sport Line,2014,Benzin,Yarı Otomatik,178000,170,1598,429000
+320si,2006,Benzin,Manuel,219000,173,1997,270000
+316i Premium,2007,Benzin & LPG,Manuel,190000,122,1597,232000
+320i First Edition Sport Line,2020,Benzin,Otomatik,23900,170,1597,1099000
+320d Comfort,2013,Dizel,Otomatik,209000,188,2250,422500
+316i Standart,1993,Benzin & LPG,Manuel,345000,102,1596,81750
+320d Premium,2008,Dizel,Otomatik,126774,177,1995,365500
+316ti Compact,2004,Benzin & LPG,Manuel,295000,115,1596,117000
+318i Standart,2002,Benzin & LPG,Otomatik,260000,143,1995,212500
+320i ED Sport Line,2016,Benzin,Yarı Otomatik,120000,170,1598,640000
+316i Comfort,2013,Benzin,Otomatik,182000,136,1598,480000
+320i,1999,Benzin,Manuel,248000,150,1991,160000
+316i Standart,2006,Benzin & LPG,Manuel,208000,115,1596,223250
+320d Comfort,2011,Dizel,Yarı Otomatik,260000,184,1995,345000
+316i Modern Line,2012,Benzin,Yarı Otomatik,129000,136,1598,469000
+316i Compact,1999,Benzin & LPG,Otomatik,329000,102,1596,112000
+320d M Sport,2012,Dizel,Otomatik,340000,184,1995,363900
+320i,2000,Benzin & LPG,Otomatik,387,150,1991,163000
+320d Premium,2006,Dizel,Otomatik,291000,163,1995,259000
+320d xDrive Comfort,2011,Dizel,Otomatik,182000,184,1995,405000
+320i ED Modern Line,2013,Benzin,Otomatik,180000,170,1598,435000
+316i Compact,2000,Benzin & LPG,Manuel,296000,102,1596,96500
+320i ED Sport Line,2016,Benzin,Yarı Otomatik,141000,170,1598,579900
+320i ED Sport Line,2014,Benzin,Yarı Otomatik,104000,170,1598,615000
+320d Techno Plus,2014,Dizel,Yarı Otomatik,160000,184,1995,568000
+320d Premium,2017,Dizel,Yarı Otomatik,95000,190,1995,846250
+320i ED Sport Line,2014,Benzin,Yarı Otomatik,144000,170,1598,558000
+320i First Edition M Sport,2022,Benzin,Otomatik,0,170,1597,1395000
+316i Standart,1998,Benzin & LPG,Manuel,316888,102,1596,96000
+316i M Sport,2014,Benzin,Yarı Otomatik,35000,138,1450,749999
+320i First Edition M Sport,2020,Benzin,Otomatik,3000,170,1597,1120000
+320i First Edition Sport Line,2020,Benzin,Otomatik,8000,170,1597,1075000
+320i First Edition Sport Line,2020,Benzin,Otomatik,5200,170,1597,1110000
+320i ED Sport Plus,2015,Benzin,Yarı Otomatik,145000,170,1598,585000
+316i Standart,1990,Benzin & LPG,Manuel,245000,99,1596,107900
+320i ED 40th Year Edition,2015,Benzin,Yarı Otomatik,85000,170,1598,690000
+320i First Edition Sport Line,2020,Benzin,Otomatik,29000,170,1597,1025000
+330xd Standart,2005,Dizel,Otomatik,400000,231,2993,240000
+320i ED M Plus,2015,Benzin,Yarı Otomatik,87000,170,1598,665000
+320i ED Sport Line,2016,Benzin,Otomatik,58500,163,1450,685000
+318i Premium Line,2018,Benzin,Otomatik,52500,136,1499,689000
+320d Modern Line,2013,Dizel,Yarı Otomatik,251650,184,1995,474750
+318i Standart,2006,Benzin,Otomatik,317000,129,1995,230000
+320d Standart,2013,Dizel,Otomatik,198000,184,1995,468000
+320i First Edition Sport Line,2021,Benzin,Otomatik,28000,170,1597,1175000
+320d Modern Line,2012,Dizel,Yarı Otomatik,184000,184,1995,510000
+320i ED Standart,2015,Benzin,Otomatik,79000,170,1598,685000
+320d Comfort,2010,Dizel,Yarı Otomatik,283000,177,1995,315000
+318i Standart,1991,Benzin & LPG,Manuel,235000,113,1796,98000
+320d M Sport,2011,Dizel,Otomatik,303000,184,1995,410000
+318d Premium,2009,Dizel,Yarı Otomatik,186000,143,1995,321000
+320d Standart,2009,Dizel,Otomatik,178000,177,1995,460000
+320i ED Techno Plus,2013,Benzin,Otomatik,109000,170,1598,505000
+320d Premium,2007,Dizel,Otomatik,308000,163,1995,278000
+320i M Sport,2020,Benzin,Otomatik,27400,170,1597,1179000
+316i Standart,1994,Benzin & LPG,Manuel,492000,102,1596,78000
+320d M Sport,2012,Dizel,Otomatik,211000,184,1995,495000
+320d Edition Comfort,2011,Dizel,Otomatik,108000,184,1995,442500
+320d Sport Line,2013,Dizel,Yarı Otomatik,194000,184,1995,582500
+316i Compact,1995,Benzin & LPG,Manuel,292000,102,1596,77500
+320d M Sport,2013,Dizel,Yarı Otomatik,145000,184,1995,440750
+316ti Compact,2003,Benzin,Manuel,266000,115,1596,156000
+323Ci,1999,Benzin,Manuel,122000,170,2494,203000
+320i ED 40th Year Edition,2016,Benzin,Yarı Otomatik,84000,170,1598,835000
+320d xDrive M Sport,2014,Dizel,Yarı Otomatik,220000,184,1995,599950
+316i Standart,1991,Benzin & LPG,Manuel,260000,99,1596,90000
+320i ED Sport Line,2015,Benzin,Yarı Otomatik,155000,170,1598,590000
+316i M Sport,2015,Benzin,Yarı Otomatik,123000,136,1598,575000
+316i Exclusive,2009,Benzin,Manuel,168540,122,1597,291000
+320i ED 40th Year Edition,2015,Benzin,Yarı Otomatik,129000,170,1598,760000
+320d M Sport,2008,Dizel,Otomatik,217000,177,1995,408000
+328i,1999,Benzin & LPG,Manuel,290000,193,2793,150000
+318i M Joy,2015,Benzin,Yarı Otomatik,162000,136,1499,605000
+316i M Sport,2014,Benzin,Yarı Otomatik,84000,136,1598,600000
+318i Premium Line,2017,Benzin,Otomatik,75000,136,1499,676000
+318i Standart,2007,Benzin & LPG,Otomatik,298500,143,1995,222000
+320i ED 40th Year Edition,2015,Benzin,Yarı Otomatik,110000,170,1598,690000
+318i Edition Sport Line,2017,Benzin,Otomatik,90000,136,1499,695000
+320i First Edition Sport Line,2020,Benzin,Otomatik,25000,170,1597,1035000
+320d Premium Line,2018,Dizel,Otomatik,33000,190,1995,890000
+320d Modern Line,2012,Dizel,Yarı Otomatik,176500,184,1995,575000
+318i M Joy Plus,2016,Benzin,Otomatik,125500,138,1450,620000
+318i Edition M Sport,2017,Benzin,Otomatik,72000,136,1499,750000
+318i Prestige,2015,Benzin,Yarı Otomatik,105000,136,1499,625000
+320d Premium,2006,Dizel,Otomatik,260000,163,1995,275000
+320i ED Sport Line,2016,Benzin,Yarı Otomatik,77500,170,1598,580000
+318i Prestige,2015,Benzin,Yarı Otomatik,120000,136,1499,535000
+320d Standart,2013,Dizel,Otomatik,255000,184,1995,479500
+320i ED Sport Line,2016,Benzin,Yarı Otomatik,97000,170,1598,607500
+320d M Sport,2011,Dizel,Otomatik,200000,184,1995,415000
+320d Standart,2010,Dizel,Otomatik,330000,177,1995,323000
+318d Prestige,2017,Dizel,Otomatik,137000,150,1995,690000
+320i ED 40th Year Edition,2015,Benzin,Yarı Otomatik,95000,163,1900,515000
+320i First Edition M Sport,2020,Benzin,Otomatik,26000,170,1597,1200000
+318i Standart,2007,Benzin & LPG,Otomatik,267000,129,1995,210000
+320d Standart,2002,Dizel,Manuel,257000,150,1995,165000
+318is,1997,Benzin,Manuel,260000,140,1796,115000
+318is,1998,Benzin & LPG,Manuel,235000,140,1895,157000
+320d M Sport,2011,Dizel,Otomatik,213000,184,1995,312000
+320i ED Standart,2013,Benzin,Otomatik,69000,170,1598,523000
+316i M Sport,2014,Benzin,Yarı Otomatik,175000,136,1598,540000
+320i ED Modern Line Plus,2014,Benzin,Otomatik,73000,170,1598,620000
+320i First Edition M Sport,2020,Benzin,Otomatik,9000,170,1597,1100000
+325i Standart,1984,Benzin,Manuel,243000,163,2250,158000
+320d M Sport,2013,Dizel,Yarı Otomatik,195000,184,1995,515000
+316i Sport Line,2013,Benzin,Yarı Otomatik,147000,136,1598,525000
+320d Edition Comfort,2011,Dizel,Otomatik,250000,184,1995,279500
+318i Standart,2006,Benzin & LPG,Otomatik,274000,129,1995,242500
+320d Techno Plus,2013,Dizel,Yarı Otomatik,288500,184,1995,438500
+320d Comfort,2012,Dizel,Yarı Otomatik,201000,184,1995,497500
+320i ED 40th Year Edition,2015,Benzin,Yarı Otomatik,83773,170,1598,720000
+318tds Touring,1996,Dizel,Manuel,170000,90,1665,180000
+320i ED Sport Line,2014,Benzin,Yarı Otomatik,211000,170,1598,457900
+320d Edition Comfort,2011,Dizel,Otomatik,194000,184,1995,340000
+320d xDrive Edition M Sport,2017,Dizel,Otomatik,109000,190,1995,928000
+318i Prestige,2017,Benzin,Yarı Otomatik,77000,136,1499,636000
+320i,2000,Benzin & LPG,Otomatik,160000,150,1991,215000
+316i Comfort,2012,Benzin & LPG,Otomatik,183000,136,1598,319000
+316i Standart,2013,Benzin,Otomatik,159000,136,1598,435000
+320d Standart,2011,Dizel,Otomatik,239000,184,1995,285000
+320d Premium Line,2018,Dizel,Otomatik,81277,190,1995,810000
+318i Prestige,2016,Benzin,Yarı Otomatik,150000,136,1499,550000
+316i Standart,2011,Benzin,Otomatik,120000,116,1596,304000
+320i,2011,Benzin,Otomatik,149000,156,1995,497500
+320d GT Premium,2013,Dizel,Yarı Otomatik,294000,184,1995,525000
+320i ED 40th Year Edition,2016,Benzin,Yarı Otomatik,71000,170,1598,655000
+318Ci,2004,Benzin & LPG,Otomatik,221000,143,1995,195000
+320i First Edition Sport Line,2020,Benzin,Otomatik,24500,170,1597,1100000
+320i ED Luxury M Plus,2014,Benzin,Otomatik,199000,170,1598,572000
+320i Cabrio,2008,Benzin,Otomatik,174000,170,1995,485000
+320d Standart,2003,Dizel,Otomatik,225000,150,1995,215000
+320d Comfort,2010,Dizel,Yarı Otomatik,180000,177,1995,339000
+320d xDrive Luxury Line,2014,Dizel,Yarı Otomatik,179000,184,1995,594000
+320d Standart,2011,Dizel,Otomatik,246500,184,1995,395000
+320d Premium,2012,Dizel,Yarı Otomatik,220000,184,1995,335000
+316i Compact,1996,Benzin & LPG,Otomatik,250000,102,1596,87500
+318d Prestige,2017,Dizel,Otomatik,85000,150,1995,705000
+320d Luxury,2012,Dizel,Yarı Otomatik,191000,184,1995,485000
+320i First Edition M Sport,2019,Benzin,Otomatik,37000,170,1597,1190000
+318d Sport Plus,2017,Dizel,Otomatik,104000,150,1995,700000
+320i Premium,2007,Benzin,Yarı Otomatik,165000,170,1995,269950
+316i Sport Line,2012,Benzin,Yarı Otomatik,154000,136,1598,495000
+320i ED M Plus,2016,Benzin,Yarı Otomatik,90000,170,1598,750000
+318i M Joy,2015,Benzin,Yarı Otomatik,105000,136,1499,519950
+316i Standart,2014,Benzin,Otomatik,160000,136,1598,499000
+320d M Sport,2011,Dizel,Otomatik,253000,184,1995,380000
+320i First Edition M Sport,2021,Benzin,Otomatik,15750,170,1597,1170000
+316i Standart,2011,Benzin,Otomatik,99000,116,1596,335000
+320i ED Sport Line,2016,Benzin,Yarı Otomatik,225000,170,1598,550000
+316i M Sport,2012,Benzin,Otomatik,183000,116,1596,515000
+316i Standart,1992,Benzin & LPG,Manuel,300000,99,1596,71500
+320i First Edition Sport Line,2020,Benzin,Otomatik,36000,170,1597,1020000
+320i First Edition Sport Line,2021,Benzin,Otomatik,13700,170,1597,1095000
+318i Joy,2016,Benzin,Yarı Otomatik,38000,136,1499,629000
+320i ED Standart,2014,Benzin,Otomatik,130500,170,1598,520000
+316i Standart,2010,Benzin & LPG,Manuel,269900,115,1597,265000
+320d Edition Comfort,2012,Dizel,Otomatik,235000,184,1995,385900
+320i ED 40th Year Edition,2016,Benzin,Yarı Otomatik,128000,170,1598,795000
+320i ED Modern Line,2014,Benzin,Otomatik,51000,170,1598,625000
+320i First Edition Sport Line,2020,Benzin,Otomatik,19000,170,1597,1125000
+320i ED 40th Year Edition,2015,Benzin,Yarı Otomatik,161000,170,1598,624000
+316i M Sport,2014,Benzin,Yarı Otomatik,120000,136,1598,549000
+318i M Joy Plus,2016,Benzin,Yarı Otomatik,62000,136,1499,577500
+316i M Sport,2014,Benzin,Yarı Otomatik,126000,136,1598,630000
+316i Comfort,2014,Benzin,Otomatik,150000,136,1598,510000
+320d Comfort,2013,Dizel,Otomatik,94000,188,1900,623500
+320i ED Joy,2016,Benzin,Yarı Otomatik,59830,170,1598,621000
+320d Edition Comfort,2012,Dizel,Otomatik,143000,184,1995,415000
+320i First Edition Luxury Line,2021,Benzin,Otomatik,0,170,1597,1285000
+328i M Sport,2012,Benzin,Otomatik,153000,245,1997,775000
+316i Comfort,2012,Benzin,Otomatik,165000,136,1598,435000
+320i ED Standart,2014,Benzin,Otomatik,140000,170,1598,478500
+316i Luxury Line,2012,Benzin,Yarı Otomatik,258000,136,1598,398000
+320i Cabrio,1997,Benzin & LPG,Manuel,180000,150,1991,225000
+318i Standart,2016,Benzin,Otomatik,80000,136,1499,609000
+320d xDrive Premium,2017,Dizel,Yarı Otomatik,149000,190,1995,739750
+320d Sport Line,2013,Dizel,Otomatik,185000,184,1995,586500
+320d Sport Line,2014,Dizel,Yarı Otomatik,165000,184,1995,600000
+318i Standart,1993,Benzin & LPG,Manuel,3000,115,1796,79000
+316i Standart,2004,Benzin,Manuel,210000,115,1596,175000
+320d Touring,2001,Dizel,Manuel,298341,150,1995,145000
+320i ED 40th Year Edition,2016,Benzin,Yarı Otomatik,101000,163,1450,860000
+316i Standart,2001,Benzin & LPG,Manuel,325000,105,1595,140000
+316i Premium,2009,Benzin & LPG,Manuel,198000,122,1597,283000
+320d Standart,2003,Dizel,Otomatik,325000,150,1995,205000
+320d M Sport,2011,Dizel,Otomatik,169000,184,1995,335000
+320d Edition Comfort,2012,Dizel,Otomatik,110226,184,1995,388000
+320d Modern Line,2014,Dizel,Yarı Otomatik,153000,184,1995,595000
+320d Sport Line,2013,Dizel,Yarı Otomatik,185000,184,1995,575000
+320i First Edition M Sport,2020,Benzin,Otomatik,6000,170,1597,1099000
+318i Standart,2007,Benzin,Otomatik,113000,129,1995,355000
+318i 40th Year Edition,2017,Benzin,Otomatik,80000,136,1499,770000
+320i ED Luxury Line,2014,Benzin,Otomatik,99000,170,1598,610000
+318i Edition M Sport,2018,Benzin,Otomatik,181445,136,1499,636000
+320d xDrive M Sport,2010,Dizel,Otomatik,373000,188,1900,335000
+316i Sport Line,2013,Benzin,Yarı Otomatik,132000,136,1598,510000
+320i ED 40th Year Edition,2016,Benzin,Yarı Otomatik,78000,170,1598,865000
+328i,1999,Benzin & LPG,Otomatik,190000,193,2793,172000
+330Ci,2004,Benzin & LPG,Otomatik,260000,231,2979,300000
+316i Standart,2011,Benzin,Otomatik,157000,116,1596,380000
+320i First Edition Sport Line,2021,Benzin,Otomatik,12500,170,1597,1150000
+316i Standart,2005,Benzin & LPG,Manuel,265000,115,1596,148750
+320d Comfort,2011,Dizel,Yarı Otomatik,273000,184,1995,370000
+318i Edition Sport Line,2017,Benzin,Otomatik,112500,136,1499,628000
+320i ED Sport Line,2016,Benzin,Yarı Otomatik,117000,170,1598,525000
+320i ED M Plus,2015,Benzin,Yarı Otomatik,83000,170,1598,675000
+320i ED M Plus,2016,Benzin,Yarı Otomatik,225000,170,1598,685000
+320i ED Standart,2015,Benzin,Otomatik,107000,170,1598,494000
+320i ED Standart,2014,Benzin,Otomatik,180000,170,1598,425000
+320i ED Sport Plus,2015,Benzin,Yarı Otomatik,98000,170,1598,587500
+320d xDrive Modern Line,2013,Dizel,Otomatik,220000,184,1995,495000
+316i M Sport,2014,Benzin,Yarı Otomatik,182000,136,1598,515000
+320i ED Techno Plus,2014,Benzin,Otomatik,147000,170,1598,510000
+320i First Edition Sport Line,2021,Benzin,Otomatik,30,170,1597,1245000
+320i ED Standart,2014,Benzin,Otomatik,219000,170,1598,535000
+320i ED M Plus,2014,Benzin,Yarı Otomatik,64000,170,1598,675000
+320i ED Joy,2016,Benzin,Yarı Otomatik,112000,170,1598,599500
+320d Premium,2011,Dizel,Otomatik,143700,177,1995,275000
+320d Edition Comfort,2011,Dizel,Otomatik,186000,184,1995,259000
+320d xDrive Standart,2013,Dizel,Otomatik,169000,184,1995,580000
+320d Techno Plus,2013,Dizel,Yarı Otomatik,131000,184,1995,615000
+316i Standart,2004,Benzin & LPG,Manuel,249900,115,1596,230500
+320i ED 40th Year Edition,2015,Benzin,Yarı Otomatik,104000,170,1598,509000
+320i,1997,Benzin,Manuel,158000,150,1991,215000
+320d Standart,2010,Dizel,Otomatik,120000,184,1995,395000
+316i M Sport,2014,Benzin,Yarı Otomatik,136850,136,1598,537000
+320i ED 40th Year Edition,2016,Benzin,Yarı Otomatik,97000,170,1598,685000
+316i M Sport,2013,Benzin,Yarı Otomatik,200000,136,1598,455000
+320i,2008,Benzin & LPG,Otomatik,219000,170,1995,328750
+320d M Sport,2009,Dizel,Otomatik,178000,177,1995,610000
+320i,2007,Benzin,Otomatik,147000,150,1995,315000
+316i M Sport,2015,Benzin,Yarı Otomatik,60000,136,1598,620000
+320d xDrive Sport Line,2013,Dizel,Yarı Otomatik,232000,184,1995,485000
+320d Edition Comfort,2011,Dizel,Otomatik,252000,184,1995,319500
+320i First Edition Luxury Line,2020,Benzin,Otomatik,21000,170,1597,1245000
+320i ED 40th Year Edition,2015,Benzin,Yarı Otomatik,186000,170,1598,615000
+320i,1997,Benzin,Manuel,375869,150,1991,265000
+318i Standart,1992,Benzin & LPG,Manuel,248000,113,1796,69750
+318is,1994,Benzin & LPG,Manuel,431000,140,1796,137500
+320i,2008,Benzin,Otomatik,184000,170,1995,320000
+320d xDrive Techno Plus,2013,Dizel,Yarı Otomatik,209000,184,1995,455000
+316i Standart,1991,Benzin & LPG,Manuel,400000,99,1596,85000
+320i ED Sport Line,2015,Benzin,Yarı Otomatik,65000,170,1598,780000
+320i ED Sport Line,2014,Benzin,Yarı Otomatik,156000,170,1598,605000
+320i ED Techno Plus,2015,Benzin,Otomatik,95000,170,1598,595000
+316i Standart,1997,Benzin,Manuel,500000,102,1596,118000
+316i Standart,1992,Benzin & LPG,Otomatik,237000,99,1596,83000
+318i Standart,1991,Benzin & LPG,Manuel,213000,113,1796,61000
+320d xDrive M Sport,2013,Dizel,Yarı Otomatik,240000,184,1995,539000
+320d Premium Line,2018,Dizel,Otomatik,107000,190,1995,750000
+320i,2013,Benzin,Otomatik,212600,184,1997,442500
+318i Standart,2001,Benzin & LPG,Otomatik,222000,143,1995,162000
+328i,1995,Benzin & LPG,Manuel,294000,193,2793,144000
+316i M Sport,2014,Benzin,Yarı Otomatik,145000,136,1598,480000
+320i ED Modern Line,2014,Benzin,Otomatik,59300,163,1450,589000
+320i,1998,Benzin & LPG,Manuel,510,150,1991,110500
+320d Standart,2008,Dizel,Otomatik,230000,177,1995,265000
+318i Standart,1988,Benzin,Manuel,287000,113,1796,280750
+320i,2008,Benzin,Otomatik,160000,170,1995,399000
+320i First Edition M Sport,2019,Benzin,Otomatik,62000,170,1597,1080000
+320d Techno Plus,2013,Dizel,Yarı Otomatik,117000,184,1995,593320
+320d xDrive Standart,2014,Dizel,Otomatik,194000,184,1995,520000
+318i Standart,2004,Benzin & LPG,Manuel,307000,143,1995,162500
+320i M Sport,2010,Benzin & LPG,Otomatik,10000,188,1900,390000
+316i M Sport,2015,Benzin,Yarı Otomatik,142000,136,1598,545000
+320i,2000,Benzin & LPG,Otomatik,263000,170,1991,185000
+320d Standart,2013,Dizel,Otomatik,190000,184,1995,510000
+320d xDrive Premium Line,2018,Dizel,Otomatik,145000,190,1995,810000
+318i Standart,2007,Benzin & LPG,Otomatik,270000,143,1995,218000
+320d Standart,2003,Dizel,Otomatik,340000,150,1995,154000
+318Ci,2002,Benzin & LPG,Otomatik,275000,138,1900,170000
+320i Cabrio,2011,Benzin,Otomatik,180000,188,1900,679900
+318d Prestige,2017,Dizel,Otomatik,220000,150,1995,589000
+318Ci,2005,Benzin,Otomatik,280000,143,1995,220000
+320i ED 40th Year Edition,2015,Benzin,Yarı Otomatik,86000,170,1598,695000
+320d Premium Line,2017,Dizel,Yarı Otomatik,142000,188,2250,755750
+316ti Compact,2003,Benzin & LPG,Manuel,300000,115,1596,115000
+320d Techno Plus,2014,Dizel,Yarı Otomatik,142000,184,1995,558000
+320i First Edition M Sport,2021,Benzin,Otomatik,40000,170,1597,1289000
+320i ED M Plus,2015,Benzin,Yarı Otomatik,140000,170,1598,685000
+320i ED Modern Line,2014,Benzin,Otomatik,190000,170,1598,595000
+320i,1994,Benzin,Manuel,268000,150,1991,115000
+320i,1994,Benzin,Manuel,407500,150,1991,130000
+316i Standart,2006,Benzin & LPG,Manuel,285000,115,1596,210000
+325i Standart,1988,Benzin,Manuel,80000,213,2750,135000
+318i Standart,2001,Benzin & LPG,Otomatik,362000,143,1995,147000
+320i ED M Plus,2014,Benzin,Yarı Otomatik,111000,170,1598,542500
+320d Edition Comfort,2012,Dizel,Otomatik,240400,184,1995,499000
+320i ED Sport Plus,2015,Benzin,Yarı Otomatik,85000,170,1598,695000
+320d Techno Plus,2015,Dizel,Yarı Otomatik,141180,190,1995,685000
+318is,1997,Benzin & LPG,Manuel,280000,140,1796,137500
+320d Sport Line,2015,Dizel,Yarı Otomatik,198000,184,1995,619500
+320i ED Sport Line,2013,Benzin,Yarı Otomatik,185000,170,1598,472500
+318d M Plus,2017,Dizel,Otomatik,87000,150,1995,890000
+318i Touring,1994,Benzin,Manuel,350000,113,1796,215000
+320d Edition Comfort,2012,Dizel,Otomatik,175000,184,1995,465000
+320d Edition M Sport,2018,Dizel,Otomatik,50164,190,1995,975000
+316i Standart,1995,Benzin & LPG,Manuel,308000,102,1596,72950
+320i ED Sport Line,2016,Benzin,Yarı Otomatik,90000,170,1598,644500
+318i M Joy Plus,2016,Benzin,Yarı Otomatik,130000,136,1499,549500
+320i ED Standart,2015,Benzin,Otomatik,90000,170,1598,585000
+320d Modern Line,2013,Dizel,Yarı Otomatik,259000,184,1995,480000
+325i Standart,1992,Benzin & LPG,Manuel,380000,192,2494,95000
+316i Standart,1997,Benzin & LPG,Manuel,197000,102,1596,106000
+320d Standart,2001,Dizel,Otomatik,295000,150,1995,152000
+316i Technology,2013,Benzin,Yarı Otomatik,191000,136,1598,392500
+320d Techno Plus,2012,Dizel,Yarı Otomatik,243000,184,1995,410000
+320d Standart,2010,Dizel,Otomatik,280000,184,1995,305000
+320i Cabrio,1994,Benzin & LPG,Manuel,378000,150,1991,202000
+320d Sport Line,2012,Dizel,Yarı Otomatik,188000,184,1995,625000
+320d Standart,2011,Dizel,Otomatik,212000,184,1995,325000
+320d M Sport,2010,Dizel,Otomatik,244000,184,1995,335000
+318i Premium Line,2018,Benzin,Otomatik,35500,136,1499,712000
+316i Standart,2010,Benzin,Otomatik,230000,116,1596,286500
+316i Standart,1996,Benzin & LPG,Manuel,217000,102,1596,120000
+318i M Joy Plus,2016,Benzin,Yarı Otomatik,115232,136,1499,610000
+320i First Edition M Sport,2021,Benzin,Otomatik,19000,170,1597,1301000
+320d Premium,2006,Dizel,Otomatik,425,163,1995,216500
+316i Premium,2009,Benzin & LPG,Manuel,339000,122,1597,255000
+318i Standart,2004,Benzin & LPG,Otomatik,367000,138,1700,189500
+316i Standart,2012,Benzin,Otomatik,218000,136,1598,405000
+316i Standart,2007,Benzin & LPG,Manuel,271000,115,1596,228000
+320d Premium,2006,Dizel,Otomatik,299250,163,1995,252500
+320d Comfort,2013,Dizel,Otomatik,192000,188,1900,495000
+316ti Compact,2002,Benzin,Manuel,156000,115,1596,145000
+330Ci,2004,Benzin & LPG,Otomatik,262000,231,2979,415000
+320i,1999,Benzin & LPG,Otomatik,328000,150,1991,158000
+320i ED Luxury Line Plus,2014,Benzin,Yarı Otomatik,77000,170,1598,675000
+320d Premium,2008,Dizel,Otomatik,240000,177,1995,305300
+316i Standart,1991,Benzin & LPG,Manuel,75000,99,1596,48500
+316i M Sport,2015,Benzin,Otomatik,129000,138,1900,635750
+320i,1992,Benzin & LPG,Manuel,271000,150,1991,91000
+320d xDrive Techno Plus,2016,Dizel,Yarı Otomatik,174000,190,1995,688000
+320i,1993,Benzin,Manuel,262476,150,1991,135000
+320i,2011,Benzin,Otomatik,135000,156,1995,515000
+320i ED Standart,2014,Benzin,Otomatik,249000,170,1598,459000
+320d Comfort,2012,Dizel,Yarı Otomatik,150000,184,1995,520000
+320d Premium,2008,Dizel,Yarı Otomatik,275000,177,1995,308000
+316i Standart,2006,Benzin,Manuel,200000,115,1596,280000
+316i Technology,2013,Benzin,Yarı Otomatik,160000,136,1598,485000
+320Ci,2001,Benzin & LPG,Otomatik,267000,150,1991,225000
+318i Prestige,2015,Benzin,Yarı Otomatik,99500,136,1499,560000
+320d Edition Comfort,2011,Dizel,Otomatik,118000,184,1995,395000
+320i First Edition M Sport,2019,Benzin,Otomatik,32000,170,1597,1090000
+320i ED M Plus,2014,Benzin,Yarı Otomatik,123000,170,1598,595000
+316i Modern Line,2013,Benzin,Yarı Otomatik,107000,136,1598,483000
+320d Technology,2015,Dizel,Yarı Otomatik,153000,184,1995,650000
+320i First Edition Sport Line,2021,Benzin,Otomatik,50,170,1597,1228000
+320i First Edition Sport Line,2021,Benzin,Otomatik,0,170,1597,1225000
+316i Standart,2011,Benzin,Otomatik,206000,116,1596,283500
+320d xDrive Standart,2013,Dizel,Otomatik,174000,184,1995,557000
+320d Sport Line,2012,Dizel,Yarı Otomatik,186000,184,1995,620000
+320i ED Sport Line,2016,Benzin,Yarı Otomatik,110000,170,1598,560000
+325i Standart,1994,Benzin & LPG,Manuel,251000,192,2494,139900
+320d Standart,2010,Dizel,Otomatik,321000,177,1995,297500
+320d Edition Comfort,2012,Dizel,Otomatik,281000,184,1995,340000
+320i First Edition Sport Line,2021,Benzin,Otomatik,0,170,1597,1225000
+316i Standart,2011,Benzin,Otomatik,206000,116,1596,283500
+320d xDrive Standart,2013,Dizel,Otomatik,174000,184,1995,557000
+320d Sport Line,2012,Dizel,Yarı Otomatik,186000,184,1995,620000
+320i ED Sport Line,2016,Benzin,Yarı Otomatik,110000,170,1598,560000
+325i Standart,1994,Benzin & LPG,Manuel,251000,192,2494,139900
+320d Standart,2010,Dizel,Otomatik,321000,177,1995,297500
+320d Edition Comfort,2012,Dizel,Otomatik,281000,184,1995,340000
+320i,2001,Benzin & LPG,Manuel,265000,170,2171,175000
+320i Sport Line,2021,Benzin,Yarı Otomatik,19771,163,1450,1125000
+320i First Edition M Sport,2022,Benzin,Otomatik,0,170,1597,1360000
+320i ED Edition,2015,Benzin,Otomatik,150000,170,1598,592500
+320i First Edition Sport Line,2020,Benzin,Otomatik,12500,170,1597,1090000
+320i ED Luxury Line Plus,2014,Benzin,Yarı Otomatik,103000,170,1598,580000
+320d Techno Plus,2014,Dizel,Yarı Otomatik,202000,184,1995,415000
+320i Cabrio,1994,Benzin & LPG,Manuel,315000,150,1991,245000
+320i First Edition Luxury Line,2021,Benzin,Otomatik,8400,170,1597,1185000
+320d Premium,2006,Dizel,Otomatik,343255,163,1995,260000
+318ti Compact,1997,Benzin & LPG,Manuel,303000,140,1895,100000
+320i First Edition M Sport,2022,Benzin,Otomatik,50,170,1597,1359000
+320d Premium,2012,Dizel,Yarı Otomatik,200000,184,1995,400000
+320i First Edition M Sport,2020,Benzin,Otomatik,46000,170,1597,1125000
+318i Standart,2007,Benzin,Otomatik,210000,143,1995,267000
+320d Techno Plus,2015,Dizel,Yarı Otomatik,134000,184,1995,649950
+318i Edition M Sport,2017,Benzin,Otomatik,68000,136,1499,730000
+316i Techno Plus,2015,Benzin,Otomatik,142500,136,1598,535000
+316i Standart,2008,Benzin & LPG,Manuel,245000,122,1597,185000
+316i Standart,2008,Benzin & LPG,Manuel,340000,115,1597,215000
+316i Technology,2012,Benzin,Yarı Otomatik,210000,136,1598,470000
+320d xDrive Modern Line,2013,Dizel,Otomatik,205000,184,1995,590000
+320i ED Luxury Line Plus,2016,Benzin,Yarı Otomatik,104000,170,1598,665000
+320i ED Standart,2015,Benzin,Otomatik,108000,170,1598,587000
+316i Premium,2009,Benzin,Manuel,104000,122,1597,345000
+320d M Sport,2007,Dizel,Otomatik,250000,177,1995,345000
+320i ED Standart,2016,Benzin,Otomatik,102000,170,1598,579000
+316i Techno Plus,2015,Benzin,Otomatik,61000,136,1598,598000
+320i ED 40th Year Edition,2016,Benzin,Yarı Otomatik,93000,170,1598,748000
+320i,2000,Benzin & LPG,Manuel,380000,170,1991,160000
+316i M Sport,2015,Benzin,Yarı Otomatik,164500,136,1598,548500
+320i,1994,Benzin & LPG,Manuel,197000,150,1991,110999
+320d Premium,2010,Dizel,Otomatik,233000,177,1995,322000
+316i M Sport,2012,Benzin,Otomatik,214000,138,1450,432000
+320d xDrive Comfort,2011,Dizel,Otomatik,207000,184,1995,368750
+318i Edition Sport Line,2017,Benzin,Otomatik,109000,136,1499,603500
+320d Comfort,2010,Dizel,Yarı Otomatik,170000,177,1995,368000
+320i ED Sport Line,2016,Benzin,Yarı Otomatik,132000,170,1598,450500
+320i ED Sport Line,2016,Benzin,Yarı Otomatik,132000,170,1598,450500
+320i ED Sport Line,2016,Benzin,Yarı Otomatik,132000,170,1598,450500
+320i ED Standart,2014,Benzin,Otomatik,52250,170,1598,650000
+316i M Sport,2014,Benzin,Yarı Otomatik,205000,136,1598,512000
+320i Premium,2010,Benzin,Otomatik,126000,163,1900,455000
+320d Comfort,2012,Dizel,Yarı Otomatik,167000,184,1995,335000
+318Ci,2001,Benzin,Yarı Otomatik,250000,138,1700,175000
+320i ED 40th Year Edition,2016,Benzin,Yarı Otomatik,156000,170,1598,550000
+320i First Edition M Sport,2020,Benzin,Otomatik,18560,170,1597,1225950
+318i Edition M Sport,2018,Benzin,Otomatik,20000,136,1499,825000
+316i Techno Plus,2012,Benzin,Otomatik,127000,136,1598,445000
+320i ED Luxury Line,2016,Benzin,Otomatik,69000,170,1598,675000
+320i ED 40th Year Edition,2016,Benzin,Yarı Otomatik,61000,170,1598,809750
+320d Techno Plus,2013,Dizel,Yarı Otomatik,182000,184,1995,520000
+320d Techno Plus,2013,Dizel,Otomatik,225000,238,1900,525000
+320i ED Luxury Line Plus,2013,Benzin,Yarı Otomatik,215000,188,1900,477750
+320i First Edition M Sport,2022,Benzin,Otomatik,0,170,1597,1395000
+320i,2010,Benzin,Otomatik,112000,156,1995,429500
+320i ED Sport Line,2016,Benzin,Yarı Otomatik,94000,170,1598,690000
+320i ED M Plus,2014,Benzin,Yarı Otomatik,99900,170,1598,621500
+320d Premium,2011,Dizel,Otomatik,209000,188,1900,374000
+320i ED M Sport,2013,Benzin,Otomatik,160000,188,1700,569000
+320i ED Sport Line,2013,Benzin,Yarı Otomatik,147000,170,1598,569000
+316ti Compact,2002,Benzin & LPG,Manuel,285000,115,1596,134500
+320d Edition Comfort,2011,Dizel,Otomatik,255000,184,1995,332500
+320d Techno Plus,2014,Dizel,Yarı Otomatik,230000,184,1995,494000
+320i ED Sport Line,2016,Benzin,Yarı Otomatik,99000,170,1598,630000
+316i Comfort,2012,Benzin,Otomatik,275000,136,1598,371500
+320i ED Standart,2013,Benzin,Otomatik,167000,184,1997,394000
+320i ED 40th Year Edition,2016,Benzin,Yarı Otomatik,70000,170,1598,860000
+320i ED Techno Plus,2014,Benzin,Otomatik,190000,170,1598,477900
+318i M Joy,2015,Benzin,Otomatik,112000,138,1450,650000
+320i ED 40th Year Edition,2015,Benzin,Yarı Otomatik,146000,170,1598,673000
+320d M Sport,2012,Dizel,Yarı Otomatik,208000,184,1995,549000
+320i ED Sport Line,2016,Benzin,Yarı Otomatik,69964,170,1598,718000
+320i ED Sport Line,2013,Benzin,Yarı Otomatik,118000,170,1598,560000
+320d xDrive Edition M Sport,2018,Dizel,Otomatik,85000,190,1995,1030000
+320d M Sport,2014,Dizel,Otomatik,191000,138,1900,625000
+320d Comfort,2011,Dizel,Yarı Otomatik,220000,184,1995,355000
+316i M Sport,2013,Benzin,Yarı Otomatik,245000,136,1598,397500
+325i Standart,1990,Benzin,Manuel,313000,192,2494,315000
+320d xDrive Premium Line,2018,Dizel,Otomatik,53000,190,1995,910000
+320i ED 40th Year Edition,2015,Benzin,Yarı Otomatik,124000,170,1598,670000
+320d M Sport,2011,Dizel,Otomatik,167000,184,1995,399000
+320d Techno Plus,2016,Dizel,Yarı Otomatik,70000,188,1900,826000
+318i Sport Plus,2017,Benzin,Otomatik,100000,136,1499,640000
+318i Premium Line,2017,Benzin,Otomatik,67300,136,1499,675000
+316Ci,2004,Benzin,Manuel,155000,115,1596,235000
+320d xDrive GT Sport Line,2014,Dizel,Yarı Otomatik,133000,184,1995,685000
+320i ED M Plus,2016,Benzin,Yarı Otomatik,110000,170,1598,725000
+316i Luxury Line,2012,Benzin,Yarı Otomatik,128000,136,1598,472000
+316i Standart,1996,Benzin & LPG,Manuel,330000,102,1596,98000
+320i ED Techno Plus,2014,Benzin,Otomatik,195000,170,1598,550000
+316i Luxury Line,2013,Benzin,Yarı Otomatik,109000,136,1598,470000
+318i Edition M Sport,2018,Benzin,Otomatik,75552,136,1499,735000
+315,1984,Benzin,Manuel,240000,88,1450,175000
+320d Edition M Sport,2018,Dizel,Otomatik,120000,190,1995,729950
+316i Sport Line,2012,Benzin,Yarı Otomatik,79000,136,1598,449750
+320i First Edition Sport Line,2021,Benzin,Otomatik,16000,170,1597,1159000
+320i ED Sport Plus,2016,Benzin,Yarı Otomatik,106000,170,1598,612000
+320d M Sport,2012,Dizel,Otomatik,180000,184,1995,455000
+320i First Edition M Sport,2021,Benzin,Otomatik,3000,188,1700,1325000
+318i Premium Line,2018,Benzin,Otomatik,59000,136,1499,629000
+320i ED Sport Line,2013,Benzin,Yarı Otomatik,160,170,1598,569000
+316i M Sport,2014,Benzin,Yarı Otomatik,250000,136,1598,560000
+320i ED 40th Year Edition,2015,Benzin,Yarı Otomatik,229500,170,1598,605000
+320i ED Luxury M Plus,2013,Benzin,Otomatik,175000,170,1598,473000
+320i ED M Plus,2015,Benzin,Yarı Otomatik,142000,170,1598,574500
+316i M Sport,2015,Benzin,Yarı Otomatik,150000,136,1598,548000
+320d Techno Plus,2012,Dizel,Yarı Otomatik,248000,184,1995,529000
+320d M Sport,2012,Dizel,Yarı Otomatik,130000,184,1995,805000
+320i ED Luxury Line,2015,Benzin,Yarı Otomatik,181000,170,1598,548000
+316i Standart,2009,Benzin & LPG,Manuel,390000,115,1597,208500
+320d Techno Plus,2016,Dizel,Yarı Otomatik,137000,190,1995,619000
+320d Premium Line,2018,Dizel,Otomatik,48000,190,1995,720000
+320Ci,2003,Benzin & LPG,Otomatik,310000,170,2171,307499
+320d Premium,2008,Dizel,Otomatik,297000,177,1995,262000
+318i Standart,2004,Benzin & LPG,Otomatik,304000,143,1995,195000
+316i Standart,1994,Benzin & LPG,Manuel,335000,99,1596,89950
+318i Sport Plus,2017,Benzin,Otomatik,84000,136,1499,675000
+320d Technology,2012,Dizel,Yarı Otomatik,213000,184,1995,439750
+320d Sport Line,2012,Dizel,Yarı Otomatik,200000,184,1995,472500
+320i,2008,Benzin & LPG,Otomatik,308000,170,1995,232750
+320d Edition M Sport,2017,Dizel,Otomatik,128000,190,1995,840000
+316i Premium,2008,Benzin & LPG,Manuel,340000,122,1597,255000
+316i Comfort,2012,Benzin,Otomatik,118000,113,1450,395000
+316i Standart,1989,Benzin & LPG,Manuel,202800,113,1450,105000
+316i Premium,2008,Benzin & LPG,Manuel,228000,122,1597,249000
+320i ED Modern Line Plus,2014,Benzin,Otomatik,150000,170,1598,560000
+320i ED Sport Line,2015,Benzin,Yarı Otomatik,132000,170,1598,487000
+320d Edition Comfort,2012,Dizel,Otomatik,243000,184,1995,335000
+320i ED Sport Line,2016,Benzin,Yarı Otomatik,128000,170,1598,600000
+320i ED Luxury M Plus,2016,Benzin,Otomatik,92500,170,1598,635000
+320d Techno Plus,2016,Dizel,Yarı Otomatik,175000,190,1995,630000
+320i First Edition M Sport,2022,Benzin,Otomatik,1230,163,1450,1485000
+320i ED 40th Year Edition,2015,Benzin,Yarı Otomatik,93000,170,1598,749000
+320i ED Modern Line,2013,Benzin,Otomatik,147000,170,1598,525000
+320d M Sport,2012,Dizel,Otomatik,260000,184,1995,385000
+316i Premium,2011,Benzin & LPG,Yarı Otomatik,179000,113,1450,305000
+316i Sport Line,2014,Benzin,Yarı Otomatik,119000,136,1598,535000
+320d M Sport,2012,Dizel,Otomatik,188000,184,1995,435000
+320i First Edition M Sport,2021,Benzin,Otomatik,6000,170,1597,1287000
+320d xDrive Standart,2014,Dizel,Otomatik,176000,184,1995,540000
+320i ED Edition,2016,Benzin,Otomatik,162000,170,1598,695000
+320i,1999,Benzin & LPG,Otomatik,290000,150,1991,182000
+320d M Sport,2011,Dizel,Otomatik,375000,184,1995,375000
+320d M Sport,2011,Dizel,Otomatik,230000,184,1995,385000
+320d Premium Line,2018,Dizel,Otomatik,38000,190,1995,1050000
+320i Cabrio,2010,Benzin,Yarı Otomatik,185250,163,1900,750000
+320d M Sport,2016,Dizel,Yarı Otomatik,94000,190,1995,645000
+320i ED Sport Line,2014,Benzin,Yarı Otomatik,190000,170,1598,496000
+320i First Edition M Sport,2021,Benzin,Otomatik,3000,170,1597,1525000
+320d Premium,2008,Dizel,Otomatik,291000,177,1995,262500
+318i Standart,1993,Benzin & LPG,Manuel,498000,115,1796,76500
+318i Prestige,2017,Benzin,Yarı Otomatik,103000,136,1499,698500
+320i ED Modern Line,2013,Benzin,Otomatik,85000,170,1598,552500
+320d Standart,2013,Dizel,Otomatik,202000,184,1995,480000
+320i,1994,Benzin & LPG,Otomatik,330000,150,1991,101900
+316i M Sport,2013,Benzin,Otomatik,77000,138,1450,600000
+318i Prestige,2017,Benzin,Yarı Otomatik,67000,136,1499,684000
+320i,1998,Benzin & LPG,Otomatik,302000,150,1991,185000
+316i Comfort,2011,Benzin,Otomatik,232000,113,1450,268850
+320d Prestige,2017,Dizel,Yarı Otomatik,85000,190,1995,925000
+320i First Edition M Sport,2022,Benzin,Otomatik,0,170,1597,1375000
+320i ED 40th Year Edition,2016,Benzin,Yarı Otomatik,65000,170,1598,820000
+316i Standart,1996,Benzin & LPG,Otomatik,420000,102,1596,103500
+318i Standart,2007,Benzin & LPG,Otomatik,258000,129,1995,299000
+320d xDrive GT Sport Line,2014,Dizel,Otomatik,159000,188,1900,645000
+320d Premium,2008,Dizel,Otomatik,145000,177,1995,365000
+320d Edition M Sport,2018,Dizel,Otomatik,33000,190,1995,925000
+320i First Edition M Sport,2019,Benzin,Otomatik,9000,170,1597,1100000
+316i M Sport,2013,Benzin,Yarı Otomatik,115000,136,1598,590000
+320i,2008,Benzin,Otomatik,237000,170,1995,296000
+320i ED M Plus,2015,Benzin,Yarı Otomatik,137300,170,1598,565000
+316i Sport Line,2012,Benzin,Yarı Otomatik,158000,136,1598,485000
+320i ED Luxury Line Plus,2014,Benzin,Yarı Otomatik,98000,170,1598,610000
+320i ED 40th Year Edition,2016,Benzin,Yarı Otomatik,118000,170,1598,715000
+320i,2012,Benzin,Otomatik,225000,184,1997,435000
+320d xDrive Premium,2014,Dizel,Yarı Otomatik,298000,184,1995,480000
+318d M Plus,2017,Dizel,Otomatik,147000,150,1995,685000
+320i Executive M Sport,2021,Benzin,Yarı Otomatik,0,163,1450,1375000
+316i Luxury Line,2013,Benzin,Yarı Otomatik,140000,136,1598,548000
+316i Sport Line,2012,Benzin,Yarı Otomatik,191900,136,1598,430000
+316i Standart,2005,Benzin,Manuel,147000,115,1596,201750
+320i ED Techno Plus,2013,Benzin,Otomatik,79000,170,1598,515000
+320d Edition Comfort,2011,Dizel,Otomatik,268000,184,1995,330000
+320d Technology,2013,Dizel,Yarı Otomatik,154000,184,1995,509000
+320d M Sport,2013,Dizel,Yarı Otomatik,195500,184,1995,635000
+320d Sport Line,2012,Dizel,Yarı Otomatik,209000,184,1995,475000
+318i Edition M Sport,2018,Benzin,Otomatik,28169,138,1450,699750
+320i Cabrio,2009,Benzin,Otomatik,99000,170,1995,670000
+318i Standart,2001,Benzin & LPG,Manuel,399000,118,1895,155000
+320i ED 40th Year Edition,2015,Benzin,Yarı Otomatik,162000,170,1598,635000
+328i,1997,Benzin,Manuel,185000,193,2793,400000
+316i M Sport,2012,Benzin & LPG,Otomatik,130760,116,1596,408750
+320d Premium,2005,Dizel,Otomatik,278944,163,1995,207500
+320i,1999,Benzin & LPG,Otomatik,230000,150,1991,159999
+318Ci,2001,Benzin & LPG,Manuel,230000,118,1895,185000
+320i First Edition Luxury Line,2019,Benzin,Otomatik,53969,170,1597,1019000
+320i ED Sport Line,2014,Benzin,Yarı Otomatik,119000,170,1598,632900
+320i First Edition Luxury Line,2019,Benzin,Otomatik,52000,170,1597,1059000
+316i Standart,1997,Benzin & LPG,Manuel,327000,102,1596,85500
+320d Standart,2014,Dizel,Otomatik,252000,184,1995,460000
+320i ED 40th Year Edition,2016,Benzin,Yarı Otomatik,99850,170,1598,677000
+320i ED Techno Plus,2014,Benzin,Yarı Otomatik,141000,163,1700,505000
+320i,1996,Benzin & LPG,Manuel,333000,150,1991,100000
+320i ED Sport Line,2015,Benzin,Yarı Otomatik,101000,170,1598,638000
+320d Modern Line,2012,Dizel,Yarı Otomatik,170000,184,1995,500000
+316i Premium,2009,Benzin & LPG,Manuel,299999,122,1597,298000
+320i,1999,Benzin & LPG,Otomatik,320000,150,1991,182000
+316i M Sport,2013,Benzin,Yarı Otomatik,157500,136,1598,605000
+320d Standart,2010,Dizel,Otomatik,111300,184,1995,298000
+320i ED Sport Line,2016,Benzin,Yarı Otomatik,150000,170,1598,585000
+316i Comfort,2012,Benzin,Otomatik,97000,136,1598,523000
+316i Comfort,2012,Benzin,Otomatik,134000,136,1598,375000
+318i M Joy Plus,2015,Benzin,Yarı Otomatik,122000,136,1499,535000
+320d Premium,2006,Dizel,Otomatik,329000,163,1995,209000
+318i Standart,2016,Benzin,Otomatik,160000,136,1499,475000
+320d M Sport,2010,Dizel,Yarı Otomatik,227000,177,1995,270000
+320i ED Sport Line,2014,Benzin,Yarı Otomatik,145000,170,1598,580000
+318i M Joy,2015,Benzin,Otomatik,81000,138,2350,634500
+318i Standart,2007,Benzin & LPG,Otomatik,257000,143,1995,230000
+320i ED Modern Line,2014,Benzin,Otomatik,141000,170,1598,525000
+320i ED Luxury Line,2016,Benzin,Yarı Otomatik,138000,170,1598,649900
+320i ED Sport Plus,2016,Benzin,Yarı Otomatik,122500,170,1598,650000
+320i,1990,Benzin & LPG,Manuel,180000,150,1991,107000
+320i Premium,2006,Benzin & LPG,Otomatik,269000,150,1995,257000
+328i,1993,Benzin & LPG,Manuel,278000,188,2750,110000
+320i ED 40th Year Edition,2016,Benzin,Yarı Otomatik,72500,170,1598,850000
+320d Standart,2012,Dizel,Otomatik,260000,184,1995,442000
+320d Standart,2014,Dizel,Otomatik,203000,184,1995,650000
+320d Standart,2011,Dizel,Otomatik,209000,184,1995,310000
+318i M Joy,2015,Benzin,Yarı Otomatik,100000,136,1499,597500
+320i First Edition M Sport,2019,Benzin,Otomatik,32000,170,1597,1125000
+316i M Sport,2014,Benzin,Yarı Otomatik,182000,136,1598,450000
+316i Technology,2014,Benzin,Otomatik,96000,163,4750,650000
+318i Standart,1990,Benzin & LPG,Manuel,329000,113,1796,64500
+316i M Sport,2014,Benzin,Yarı Otomatik,148000,136,1598,522000
+318i Standart,2001,Benzin & LPG,Otomatik,325000,143,1995,158000
+318i Standart,1996,Benzin & LPG,Manuel,325000,115,1796,90000
+316i Sport,2013,Benzin,Yarı Otomatik,146000,163,1700,450000
+320i ED Sport Line,2015,Benzin,Yarı Otomatik,128000,170,1598,685000
+316i Comfort,2011,Benzin,Yarı Otomatik,111000,116,1596,440000
+325i Standart,2003,Benzin & LPG,Manuel,320000,192,2494,258000
+320d Sport Line,2012,Dizel,Yarı Otomatik,213000,184,1995,700000
+320d Edition Comfort,2012,Dizel,Otomatik,245000,184,1995,385000
+320i ED Luxury M Plus,2015,Benzin,Otomatik,122000,170,1598,545000
+320d Techno Plus,2013,Dizel,Yarı Otomatik,211000,184,1995,489500
+316i Techno Plus,2013,Benzin,Otomatik,125000,136,1598,477000
+320i,1996,Benzin & LPG,Manuel,350000,150,1991,158000
+318i M Joy Plus,2016,Benzin,Yarı Otomatik,76572,136,1499,679900
+320i ED M Sport,2014,Benzin,Yarı Otomatik,120000,113,1450,527000
+320i First Edition M Sport,2020,Benzin,Otomatik,17000,170,1597,1210000
+318i Standart,2004,Benzin & LPG,Otomatik,217500,143,1995,222500
+320d xDrive Luxury Line,2014,Dizel,Yarı Otomatik,90000,184,1995,680000
+316ti Compact,2003,Benzin,Manuel,365000,115,1596,127500
+316i Standart,1989,Benzin,Manuel,144000,238,2750,149750
+320i,2009,Benzin,Otomatik,213,170,1995,407500
+320d Modern Line,2012,Dizel,Yarı Otomatik,241000,184,1995,420000
+316i M Sport,2015,Benzin,Yarı Otomatik,114000,136,1598,589500
+320d Sport Line,2013,Dizel,Yarı Otomatik,202000,184,1995,565000
+320i ED Sport Line,2016,Benzin,Yarı Otomatik,62000,170,1598,695000
+316i Exclusive,2010,Benzin & LPG,Manuel,190000,122,1597,325000
+320i,2005,Benzin,Manuel,250000,150,1995,280000
+320i First Edition Luxury Line,2019,Benzin,Otomatik,29000,170,1597,1040000
+320i,1994,Benzin & LPG,Manuel,220,150,1991,132500
+320d xDrive Techno Plus,2014,Dizel,Yarı Otomatik,175000,188,1900,645000
+320i ED Luxury Line,2014,Benzin,Otomatik,160000,170,1598,522000
+316i M Sport,2012,Benzin,Otomatik,140000,116,1596,365000
+320i First Edition M Sport,2020,Benzin,Otomatik,27000,170,1597,1140000
+318i Standart,2006,Benzin & LPG,Manuel,298000,143,1995,228000
+320i ED Luxury Line Plus,2015,Benzin,Yarı Otomatik,86000,170,1598,695000
+320i ED Standart,2014,Benzin,Otomatik,200000,170,1598,440000
+320d Premium,2006,Dizel,Otomatik,293000,163,1995,270000
+316i Modern Line,2012,Benzin,Yarı Otomatik,108000,136,1598,430000
+320d xDrive Techno Plus,2013,Dizel,Yarı Otomatik,198000,184,1995,545000
+330Ci,2001,Benzin & LPG,Manuel,267000,231,2979,249999
+320i,1995,Benzin & LPG,Manuel,280000,150,1991,134500
+320d Sport,2011,Dizel,Yarı Otomatik,239000,184,1995,340000
+320d M Sport,2012,Dizel,Yarı Otomatik,207000,184,1995,580000
+320d Premium,2010,Dizel,Otomatik,190000,188,2250,355000
+316i Standart,2000,Benzin,Manuel,299000,105,1595,154000
+320i ED Techno Plus,2014,Benzin,Otomatik,169000,170,1598,445000
+320d Techno Plus,2014,Dizel,Otomatik,221000,188,1900,610000
+320d Standart,2003,Dizel,Otomatik,255000,150,1995,190750
+320i ED 40th Year Edition,2015,Benzin,Yarı Otomatik,118000,170,1598,593000
+320i ED Standart,2016,Benzin,Otomatik,125000,170,1598,750000
+320d Standart,2007,Dizel,Otomatik,306000,163,1995,235000
+320i Cabrio,1994,Benzin & LPG,Manuel,278000,150,1991,227500
+320d xDrive Standart,2009,Dizel,Otomatik,335000,177,1995,288000
+316i Standart,2005,Benzin & LPG,Manuel,240000,116,1796,189000
+320d Premium,2011,Dizel,Otomatik,252000,188,1900,310000
+320i,2012,Benzin,Otomatik,258000,184,1997,400000
+320d Standart,2010,Dizel,Otomatik,281000,177,1995,310000
+320i ED Sport Line,2016,Benzin,Yarı Otomatik,149000,170,1598,564000
+318i Edition Sport Line,2017,Benzin,Otomatik,58000,136,1499,720000
+320i ED Sport Line,2015,Benzin,Yarı Otomatik,160000,188,1900,475000
+320d Premium,2006,Dizel,Otomatik,272250,163,1995,279750
+320d Standart,2012,Dizel,Otomatik,244000,184,1995,415000
+316i Comfort,2012,Benzin,Yarı Otomatik,214500,116,1596,328500
+320d Standart,2011,Dizel,Otomatik,275000,184,1995,285000
+320i ED Standart,2015,Benzin,Otomatik,126000,170,1598,586000
+320i ED 40th Year Edition,2016,Benzin,Yarı Otomatik,96000,170,1598,663900
+320i,1994,Benzin,Otomatik,96655,150,1991,345000
+320i ED Luxury M Plus,2014,Benzin,Otomatik,180000,170,1598,550000
+330Ci,2001,Benzin,Manuel,207000,231,2979,245000
+320d Comfort,2010,Dizel,Yarı Otomatik,253000,177,1995,278000
+318i M Joy Plus,2015,Benzin,Yarı Otomatik,148000,136,1499,609000
+320d Edition Comfort,2011,Dizel,Otomatik,175000,184,1995,399000
+320i First Edition M Sport,2021,Benzin,Otomatik,7400,170,1597,1289000
+316i Standart,2006,Benzin & LPG,Manuel,289000,115,1596,236750
+316ti Compact,2004,Benzin & LPG,Manuel,199000,115,1596,145000
+318i Edition M Sport,2018,Benzin,Otomatik,43600,136,1499,800000
+318i Edition Sport Line,2018,Benzin,Otomatik,85000,136,1499,642000
+320d Premium,2011,Dizel,Otomatik,253000,177,1995,375000
+320i,1998,Benzin & LPG,Otomatik,330000,150,1991,153500
+316i Premium,2006,Benzin & LPG,Manuel,178000,163,1450,273000
+316ti Compact,2002,Benzin,Manuel,198000,115,1596,116000
+320d Techno Plus,2013,Dizel,Yarı Otomatik,209500,184,1995,524500
+320i ED Sport Line,2015,Benzin,Yarı Otomatik,120000,170,1598,675000
+320d M Sport,2015,Dizel,Yarı Otomatik,180000,184,1995,565000
+316i M Sport,2014,Benzin,Yarı Otomatik,98500,136,1598,655000
+316i Comfort,2009,Benzin & LPG,Yarı Otomatik,261750,113,1450,298750
+320d M Sport,2011,Dizel,Otomatik,236000,184,1995,288000
+320d Premium,2011,Dizel,Otomatik,210000,177,1995,355000
+320i ED Standart,2015,Benzin,Otomatik,123000,170,1598,558000
+316i Comfort,2012,Benzin,Otomatik,99000,136,1598,530000
+316i Standart,2011,Benzin & LPG,Otomatik,200000,116,1596,291500
+320d M Sport,2011,Dizel,Otomatik,248000,184,1995,326750
+320i First Edition M Sport,2019,Benzin,Otomatik,19000,170,1597,1130000
+320d Edition Comfort,2012,Dizel,Otomatik,157000,184,1995,379000
+320i ED Luxury Line Plus,2016,Benzin,Yarı Otomatik,143000,170,1598,629000
+316i Comfort,2012,Benzin,Otomatik,148165,136,1598,472500
+320i ED Sport Line,2013,Benzin,Yarı Otomatik,228000,170,1598,500000
+323Ci,2000,Benzin,Manuel,264000,170,2494,380000
+320i ED Sport Line,2013,Benzin,Yarı Otomatik,135000,170,1598,575000
+320i ED Luxury Line Plus,2014,Benzin,Yarı Otomatik,118500,170,1598,568320
+320d M Sport,2012,Dizel,Otomatik,160000,184,1995,403000
+318is,1997,Benzin & LPG,Manuel,348000,140,1796,127000
+320i ED M Plus,2015,Benzin,Yarı Otomatik,146000,170,1598,586500
+316i Standart,1995,Benzin & LPG,Manuel,300000,102,1596,89000
+320d Sport Line,2012,Dizel,Yarı Otomatik,328000,184,1995,465000
+320d Premium,2010,Dizel,Otomatik,282000,177,1995,317000
+316i Standart,2006,Benzin & LPG,Manuel,274000,115,1596,238000
+320i ED Luxury Line,2014,Benzin,Otomatik,104000,170,1598,635000
+320d Premium Line,2018,Dizel,Yarı Otomatik,95000,188,1900,710000
+320i ED 40th Year Edition,2016,Benzin,Yarı Otomatik,100000,170,1598,735000
+320d Premium,2010,Dizel,Otomatik,254000,177,1995,356000
+320i ED 40th Year Edition,2016,Benzin,Yarı Otomatik,168000,170,1598,485000
+320i ED Sport Line,2013,Benzin,Yarı Otomatik,159000,170,1598,580000
+320i ED Sport Line,2014,Benzin,Yarı Otomatik,145000,170,1598,585000
+318i Standart,2001,Benzin & LPG,Otomatik,351000,143,1995,175000
+320i,1994,Benzin,Manuel,370000,150,1991,120000
+320i ED Techno Plus,2014,Benzin,Otomatik,133000,170,1598,475000
+320d Premium Line,2018,Dizel,Otomatik,43000,190,1995,890000
+324td Standart,1988,Dizel,Otomatik,179000,113,2250,145000
+320i,2007,Benzin,Otomatik,76000,150,1995,447500
+320d Premium,2006,Dizel,Otomatik,371000,163,1995,285000
+316i Standart,1993,Benzin & LPG,Manuel,341000,102,1596,85000
+320i,1994,Benzin & LPG,Manuel,376000,150,1991,105000
+320d M Sport,2008,Dizel,Otomatik,265000,177,1995,345000
+320d Comfort,2011,Dizel,Yarı Otomatik,164000,184,1995,363000
+320i,1994,Benzin,Manuel,207000,150,1991,81000
+320d Techno Plus,2016,Dizel,Otomatik,91000,188,1900,665000
+320i Premium,2008,Benzin & LPG,Yarı Otomatik,224000,170,1995,265000
+320d M Sport,2012,Dizel,Otomatik,237000,184,1995,430000
+316i Standart,1993,Benzin & LPG,Manuel,395000,102,1596,81000
+320d Standart,2011,Dizel,Otomatik,199600,184,1995,469750
+320d Premium,2006,Dizel,Otomatik,329000,163,1995,248000
+316i Standart,2000,Benzin & LPG,Manuel,292000,105,1595,132500
+318i Standart,1992,Benzin & LPG,Manuel,400000,113,1700,66000
+320i ED Luxury Line,2014,Benzin,Otomatik,193000,170,1598,550000
+320i,1994,Benzin & LPG,Otomatik,395000,150,1991,90000
+320i First Edition Sport Line,2021,Benzin,Otomatik,10000,170,1597,1199000
+316i Standart,2011,Benzin & LPG,Otomatik,160000,116,1596,320000
+320d Comfort,2012,Dizel,Yarı Otomatik,259000,184,1995,335000
+320i,1991,Benzin & LPG,Manuel,410000,150,1991,77500
+316i Modern Line,2012,Benzin,Yarı Otomatik,54000,136,1598,525000
+320i ED Sport Line,2015,Benzin,Yarı Otomatik,146000,170,1598,605000
+316i Standart,2007,Benzin,Manuel,200000,122,1597,210000
+318i Touring,1992,Benzin & LPG,Manuel,350000,113,1796,64000
+320d Premium,2006,Dizel,Otomatik,265000,163,1995,272000
+316i M Sport,2014,Benzin,Yarı Otomatik,120000,136,1598,660000
+320i First Edition M Sport,2019,Benzin,Otomatik,64000,170,1597,1080000
+320d Luxury,2012,Dizel,Yarı Otomatik,60500,184,1995,635000
+316i Standart,2005,Benzin & LPG,Manuel,268000,115,1596,176750
+320d GT Gran Turismo,2013,Dizel,Otomatik,275000,184,1995,588000
+318i Standart,2001,Benzin & LPG,Otomatik,340000,118,1895,147500
+320d M Sport,2012,Dizel,Otomatik,235000,188,1900,448000
+318is,1997,Benzin & LPG,Manuel,266000,140,1796,87500
+318is,1995,Benzin,Manuel,278000,140,1796,187500
+320d Premium,2006,Dizel,Otomatik,260,163,1995,187000
+320i ED Sport Line,2015,Benzin,Yarı Otomatik,124000,170,1598,580000
+316i M Sport,2013,Benzin,Yarı Otomatik,138000,136,1598,530000
+320d Standart,2013,Dizel,Otomatik,270000,184,1995,525000
+320d Premium,2010,Dizel,Otomatik,260000,177,1995,312900
+318i M Joy Plus,2015,Benzin,Yarı Otomatik,118000,136,1499,545000
+316i M Sport,2012,Benzin,Yarı Otomatik,130000,136,1598,479000
+318i Standart,2001,Benzin & LPG,Otomatik,310000,143,1995,170000
+320i ED Standart,2016,Benzin,Otomatik,111000,170,1598,579000
+320i First Edition Luxury Line,2021,Benzin,Otomatik,4700,170,1597,1260000
+320i ED 40th Year Edition,2016,Benzin,Yarı Otomatik,127000,170,1598,725000
+320i Premium,2006,Benzin & LPG,Otomatik,257000,150,1995,239000
+320i ED M Plus,2015,Benzin,Yarı Otomatik,155000,170,1598,610000
+316i Standart,1989,Benzin,Manuel,102320,113,1700,105000
+320i,1997,Benzin & LPG,Manuel,356700,150,1991,127000
+320i ED Luxury M Plus,2014,Benzin,Otomatik,156000,170,1598,610000
+316i Standart,2005,Benzin & LPG,Manuel,215250,115,1596,218500
+320i ED 40th Year Edition,2016,Benzin,Yarı Otomatik,70000,170,1598,720000
+320d Premium,2006,Dizel,Otomatik,240000,163,1995,267500
+320i ED Luxury M Plus,2016,Benzin,Otomatik,58000,170,1598,799000
+320i,2001,Benzin & LPG,Otomatik,260000,170,1991,160000
+316i Standart,1989,Benzin & LPG,Manuel,250000,213,2250,135000
+318i Edition Luxury Line,2018,Benzin,Otomatik,69000,136,1499,785000
+316i Premium,2009,Benzin & LPG,Manuel,255000,122,1597,249500
+320i Premium,2007,Benzin & LPG,Otomatik,245000,150,1995,239000
+318Ci,2003,Benzin & LPG,Otomatik,249500,143,1995,329900
+320i First Edition Sport Line,2021,Benzin,Otomatik,24000,170,1597,1085000
+320d xDrive Luxury Line,2014,Dizel,Yarı Otomatik,197000,184,1995,593000
+320i Premium,2005,Benzin & LPG,Otomatik,281582,150,1995,235500
+320i ED Sport Line,2015,Benzin,Yarı Otomatik,112000,170,1598,625000
+318i Premium Line,2018,Benzin,Otomatik,68000,136,1499,699000
+330Ci,2001,Benzin & LPG,Manuel,250000,231,2979,225000
+320d Luxury,2013,Dizel,Yarı Otomatik,247200,184,1995,485000
+320i ED M Plus,2013,Benzin,Yarı Otomatik,126000,170,1598,549000
+320i,2000,Benzin & LPG,Otomatik,259000,170,1991,149650
+316i Standart,2006,Benzin & LPG,Manuel,243000,116,1796,245000
+330d Standart,2004,Dizel,Yarı Otomatik,225000,213,2750,295000
+320d M Sport,2011,Dizel,Yarı Otomatik,260000,184,1995,475000
+320i First Edition M Sport,2019,Benzin,Otomatik,41000,170,1597,995000
+318i M Joy,2016,Benzin,Otomatik,71000,138,1450,618500
+320i First Edition M Sport,2022,Benzin,Otomatik,0,170,1597,1395000
