@@ -1,0 +1,10 @@
+C1 - Brand
+C2 - Series
+C3 - Model
+C4 - Year
+C5 - Fuel
+C6 - Transmission
+C7 - Mileage
+C8 - HP
+C9 - Engine Size
+C10 - Price
