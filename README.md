@@ -28,6 +28,8 @@ To be continued...
  - ScrapedData.csv
  - CarDataset.csv
  - CarURLS.csv
+ - LICENSE
+ - README.md
 
 ## Motivation
 
