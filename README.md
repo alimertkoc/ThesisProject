@@ -1,4 +1,4 @@
-﻿# Welcome to my Thesis Project!  **REST OF README WILL BE COMPLETED, THIS IS NOT LATEST VERSION.**
+﻿# Welcome to my Thesis Project!  
 
 Hi! I am Ali Mert. I am 4th-grade Undergraduate Computer Engineering student at Marmara University, Istanbul. This is my Thesis project which is about **Web Scraping and Car Price Prediction using Machine Learning**.
 
